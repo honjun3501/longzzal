@@ -1,3 +1,4 @@
+# 연동테스트
 # 파이썬 내장 라이브러리
 import tkinter
 from tkinter import ttk
